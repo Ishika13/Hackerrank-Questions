@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch forloop1",
+            "request": "launch",
+            "mainClass": "forloop1",
+            "projectName": "Java Programs_32772e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch dowhile1",
+            "request": "launch",
+            "mainClass": "dowhile1",
+            "projectName": "Java Programs_32772e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "Java Programs_32772e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java Programs_32772e3"
+        }
+    ]
+}
