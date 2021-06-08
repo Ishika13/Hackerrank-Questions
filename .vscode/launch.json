@@ -9,6 +9,20 @@
             "name": "Launch forloop1",
             "request": "launch",
             "mainClass": "forloop1",
+            "projectName": "Hackerrank Java Programs_d4e2dbf1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "Hackerrank Java Programs_d4e2dbf1"
+        },
+        {
+            "type": "java",
+            "name": "Launch forloop1",
+            "request": "launch",
+            "mainClass": "forloop1",
             "projectName": "Java Programs_32772e3"
         },
         {

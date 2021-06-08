@@ -1,6 +1,6 @@
 public class forloop1 {
     public static void forloop(){
-        for(int x = 0; x=<20; x++){
+        for(int x = 0; x<20; x++){
             System.out.println("X = " + x);
         }
     }
